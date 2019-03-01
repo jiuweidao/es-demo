@@ -1,0 +1,12 @@
+development:
+    driver: mymysql
+    open: tcp:localhost:3306*goose_test/root/123456
+production:
+    driver: mymysql
+    open: tcp:localhost:3306*goose_test/root/123456
+a:
+    driver: mymysql
+    open: tcp:localhost:3306*goose_test/root/123456
+b:
+    driver: mymysql
+    open: tcp:localhost:3306*test/root/123456
